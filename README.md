@@ -1,5 +1,5 @@
 # QuadTree
-Quadtree utilities for FiveM
+Quadtree utilities for RedM
 
 ## Installation
 Set it as a dependency in you fxmanifest.lua
